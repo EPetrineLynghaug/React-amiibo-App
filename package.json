@@ -1,0 +1,29 @@
+{
+  "name": "react-amiibo-app1",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "start": "parcel src/index.html",
+    "build": "parcel build src/index.html"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/EPetrineLynghaug/React-amiibo-App.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/EPetrineLynghaug/React-amiibo-App/issues"
+  },
+  "homepage": "https://github.com/EPetrineLynghaug/React-amiibo-App#readme",
+  "description": "",
+  "dependencies": {
+    "react": "^19.0.0",
+    "react-dom": "^19.0.0"
+  },
+  "devDependencies": {
+    "parcel": "^2.13.3",
+    "process": "^0.11.10"
+  }
+}
